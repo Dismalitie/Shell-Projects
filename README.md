@@ -1,7 +1,13 @@
+## NOTE: ShellAPI is in beta and has not been fully finished; if you have any problems, please report them in the issues tab
+
+
+
 ## Requirements:
 1: Lua v5.3 minimum runtime added to your path environment variables
 
 2: Windows 10 / 11
+
+3: Access to the command prompt
 
 ## Instructions:
 1: Download the .zip file
