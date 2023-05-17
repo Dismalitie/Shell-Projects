@@ -33,3 +33,10 @@
 
 [*] Crashing when using -ep (patched with .syn and .synf files)
 ```
+## To-Do List: v3.0-PTB
+
+```ini
+[+] Quick Patcher app
+[+] Launch configurator and configuration files
+[+] Lua runtime built in and added to %PATH&
+```
