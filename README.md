@@ -19,3 +19,17 @@
 4: Drag the folder and shortcut out of the folder so it's in your user profile's  directory
 
 5: Run the shortcut to finish initialization
+
+## Patch Notes: v2.0-PTB
+
+```ini
+[+] Added Bootstrapper
+[+] ShellAPI now has its own standalone executable launcher
+[+] Command Utility Development and -home commands are now part of the shells session %PATH% variable when launching from the executable
+
+[-] Removed test folder in CUD workspaces
+[-] Removed ShellAPI folder in CUD workspaces
+[-] Removed beta resources left over from development
+
+[*] Crashing when using -ep (patched with .syn and .synf files)
+```
