@@ -4,9 +4,9 @@
 
 ## Requirements:
 
-1:Windows 10 / 11
+1: Windows 10 / 11
 
-2:Access to the command prompt
+2: Access to the command prompt
 
 ## Instructions:
 1: Download the .zip file
@@ -20,6 +20,8 @@
 5: Run the .exe to finish!
 
 ## Patch Notes: v2.1-PTB
+
+NOTE: A new beta subversion of ShellAPI has been released, meaning the patch notes won't be updated until a full version comes out: ShellAPI is now FULLY STANDALONE (with limitations that will soon be fixed)! To launch this new test release, download "ShellAPI Client v2 (BETA).exe" and run it; it will now launch completely on its own, with no external folders to drag and drop.
 
 ```ini
 [+] Boostrapper package is now smaller and has a new icon
